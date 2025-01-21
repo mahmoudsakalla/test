@@ -9,3 +9,4 @@ func main() {
 	fmt.Printf("This value's type is %T", quote)
 }
 // Adding a test change for pull request
+// Another test comment
